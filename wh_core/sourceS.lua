@@ -79,10 +79,8 @@ function SetandGetIDTeam(source)
 	ids[slot] = source
 	setElementData(source, "playerid", slot)
     if slot %2==0 then 
-        print("SELECTED TEAM: "..getTeamName(Teams[1]))
         return Teams[1]
     else 
-        print("SELECTED TEAM: "..getTeamName(Teams[2]))
         return Teams[2]
     end
 end

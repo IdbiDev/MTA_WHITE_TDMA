@@ -240,7 +240,6 @@ end
 addEventHandler("onClientElementDataChange",localPlayer,function(key,old,new)
 	if key == "money" then 
 		diff = math.abs(old)-math.abs(new)
-		print(diff)
 		RenderManMoney(diff)
 		playSound("effect.mp3")
 	end

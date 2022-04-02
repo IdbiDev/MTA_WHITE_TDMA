@@ -27,7 +27,7 @@ state = false
 local currentCategory = 1
 
 local title_font = dxCreateFont(":wh_core/nametag.ttf",15)
-if not title_font then 
+if isElement(title_font) then 
     outputChatBox("Anyád")
 end
 

@@ -1,5 +1,5 @@
 --SQL Information
-db = dbConnect( "mysql", "dbname=s12612_tdma;host=mysql.srkhost.eu;charset=utf8", "u12612_3OozCEF25c", "11p8OSDky0F2")
+db = dbConnect( "mysql", "dbname=nikomeleg;host=localhost;charset=utf8", "root", "")
 function getCon(res)
     outputServerLog(getResourceName(res).." Resource csatlakozott az adatbazishoz!")
     return db
@@ -54,11 +54,11 @@ function LoadPlayer(player)
                 setElementData(player,key,val)
             end
             local c_team = getPlayerTeam(player)
-        if getTeamName(c_team) == "White" then -- WHITE
-            SetPosForPlaYER(player,"White_Spawn")
-        else  -- Black <333
-            SetPosForPlaYER(player,"Black_Spawn")
-        end
+            if getTeamName(c_team) == "White" then -- WHITE
+                SetPosForPlaYER(player,"White_Spawn")
+            else  -- Black <333
+                SetPosForPlaYER(player,"Black_Spawn")
+            end
             HandlePlayerWeapons(player)
         end
         triggerClientEvent(root,"UpdateKills",root,{black_kills,white_kills})  

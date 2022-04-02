@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<meta>
+     <info author="buffalo" type="misc" name="[GTR]ELM" description="Carro para elements" />
+     <script src="replace.lua" type="client" />
+     <file src="buffalo.txd" />
+     <file src="buffalo.dff" />
+</meta>

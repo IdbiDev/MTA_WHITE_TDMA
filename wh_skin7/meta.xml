@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<meta>
+     <info author="CroakSCR" type="misc" name="SKIN-GIRL" description="SKIN-GIRL" />
+     <script src="script.lua" type="client" />
+     <file src="swmotr5.txd" />
+     <file src="swmotr5.dff" />
+</meta>

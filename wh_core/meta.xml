@@ -1,0 +1,11 @@
+<meta>
+	<info author="Idbi <3" type="script" name="wh_core" />
+	<script src="sourceC.lua" type="client" cache="false" />
+	<script src="sourceS.lua" type="server" />
+	<file src="nametag.ttf" />
+	<file src="sc_font.ttf" />
+	<export function="SearchID" type="server" />
+	<file src="ct.mp3" />
+	<file src="terror.mp3" />
+	<download_priority_group>99999999</download_priority_group>
+</meta>

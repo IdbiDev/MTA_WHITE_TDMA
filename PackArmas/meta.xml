@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<meta>
+     <info author="Decade" type="misc" name="A" description="A" />
+     <script src="script.lua" type="client" />
+     <file src="ak47.txd" />
+     <file src="ak47.dff" />
+     <file src="m4.txd" />
+     <file src="m4.dff" />
+     <file src="bat.txd" />
+     <file src="bat.dff" />
+     <file src="silenced.txd" />
+     <file src="silenced.dff" />
+     <file src="sniper.txd" />
+     <file src="sniper.dff" />
+     <file src="desert_eagle.dff" />
+     <file src="desert_eagle.txd" />
+     <file src="chromegun.dff" />
+     <file src="chromegun.txd" />
+     <file src="mp5lng.dff" />
+     <file src="mp5lng.txd" />
+     <file src="sawnoff.dff" />
+     <file src="sawnoff.txd" />
+     <file src="shotgspa.dff" />
+     <file src="shotgspa.txd" />
+     <file src="colt45.dff" />
+     <file src="colt45.txd" />
+</meta>

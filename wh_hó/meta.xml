@@ -1,0 +1,25 @@
+<meta>
+    <script src="groundC.lua" type="client" />
+    
+    <file src="fx/shader.fx" />
+    <file src="fx/snow_trees.fx" />
+    <file src="fx/snow_naughty_trees.fx" />
+    <file src="fx/smallnoise3d.dds" />
+    
+    <file src="img/snow.jpg" />
+    <file src="img/snow_street.jpg" />
+    <file src="img/snow_street2.jpg" />
+    <file src="img/snow_street_zebra.jpg" />
+    <file src="img/snow_street_jarda.jpg" />
+    <file src="img/snow_street_jarda2.jpg" />
+    <file src="img/snow_wall1.jpg" />
+    <file src="img/snow_wall2.jpg" />
+    <file src="img/snow_stone1.jpg" />
+    <file src="img/snow_stone2.jpg" />
+    <file src="img/snow_railroads.jpg" />
+    <file src="img/snow_tree.jpg" />
+    <file src="img/newtreea128.png" />
+    
+    <file src="quad/quad.txd" />
+    <file src="quad/quad.dff" />
+</meta>

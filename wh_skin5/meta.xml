@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<meta>
+     <info author="Flash Designer" type="misc" name="[SKIN]TDSupreme2" description="ByFlashStore" />
+     <script src="script.lua" type="client" />
+     <file src="ByFlashStore.txd" />
+     <file src="ByFlashStore.dff" />
+</meta>

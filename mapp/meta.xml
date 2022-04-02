@@ -1,0 +1,6 @@
+<meta>
+	<info type="ClasseA" name="Convertido por" author="Matheus" description="" version="1" />
+	<file src="[TMM]BMWM3E46Beast.txd" />
+	<file src="[TMM]BMWM3E46Beast.dff" />
+	<script type="client" src="replace.lua" />
+</meta>

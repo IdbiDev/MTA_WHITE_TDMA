@@ -1,0 +1,28 @@
+<meta>
+	<info type="misc" name="Pack de Armas Blue " author="[M]ister" description="" version="1.0" />
+
+	<file src="data/ak47.txd" />
+	<file src="data/ak47.dff" />
+	
+	<file src="data/desert_eagle.txd" />
+	<file src="data/desert_eagle.dff" />
+	
+	<file src="data/knifecur.txd" />
+	<file src="data/knifecur.dff" />
+	
+	<file src="data/m4.txd" />
+	<file src="data/m4.dff" />
+	
+	<file src="data/mp5lng.txd" />
+	<file src="data/mp5lng.dff" />
+	
+	<file src="data/shotgspa.txd" />
+	<file src="data/shotgspa.dff" />
+	
+	<file src="data/sniper.txd" />
+	<file src="data/sniper.dff" />
+
+	<script type="client" src="replace.lua" />
+
+	<!-- generated with http://www.Mods-MTA.com.br/ -->
+</meta>

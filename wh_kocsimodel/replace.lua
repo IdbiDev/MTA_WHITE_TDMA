@@ -1,0 +1,6 @@
+addEventHandler('onClientResourceStart',resourceRoot,function () 
+txd = engineLoadTXD("buffalo.txd")
+engineImportTXD(txd, 451) 
+dff = engineLoadDFF("buffalo.dff", 451)
+engineReplaceModel(dff, 451)
+end)

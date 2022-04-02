@@ -1,0 +1,19 @@
+<meta>
+    <info author="HUD Feita por GuiPanda" version="1.0" type="script" /> <!-- NAO ALTERE ESSA LINHA -->
+	
+   <!--  CONTEUDO -->	
+	<script src="Hud.lua" type="client" />
+
+        <file src="Arquivos/colete1.png"cache = "false" />
+        <file src="Arquivos/vida1.png"cache = "false" />
+    	<file src="Arquivos/dSujo.png"cache = "false" />
+    	<file src="Arquivos/fundo.png"cache = "false" />
+    	<file src="Arquivos/CartaoCredito.png"cache = "false" />
+    	<file src="Arquivos/Cifrao.png"cache = "false" />
+    	<file src="Arquivos/Sede.png"cache = "false" />
+    	<file src="Arquivos/Fome.png"cache = "false" />
+		<file src="Arquivos/Vida02.png"cache = "false" />
+	<file src="Arquivos/Font.ttf" />
+<file src="font.ttf" cache="false" />
+	<file src="effect.mp3" />
+</meta>

@@ -1,0 +1,62 @@
+<meta>
+    <!-- Script Darkzin -->
+    <script src= "Darkzin_C.lua" type="client" cache="false"/>
+    <!-- Icones -->
+	<file src="files/Icons/Colete.png" cache="false"/>
+	<file src="files/Icons/Vida.png" cache="false"/>
+    <file src="files/Icons/fundo.png" cache="false"/>
+    <file src="files/Icons/fundo_barra.png" cache="false"/>
+    <file src="files/Icons/Barra_Vida.png" cache="false"/>
+    <file src="files/Icons/Barra_Colete.png" cache="false"/>
+    <file src="font.ttf" cache="false"/>
+
+		<!-- Icones -->
+
+		<!-- Armas -->
+	 <file src="files/Icons/Armas/0.png"/> 
+     <file src="files/Icons/Armas/1.png"/> 
+     <file src="files/Icons/Armas/2.png"/> 
+     <file src="files/Icons/Armas/3.png"/>
+     <file src="files/Icons/Armas/4.png"/>
+     <file src="files/Icons/Armas/5.png"/>
+     <file src="files/Icons/Armas/6.png"/>
+     <file src="files/Icons/Armas/7.png"/>
+     <file src="files/Icons/Armas/8.png"/>
+     <file src="files/Icons/Armas/9.png"/>
+	 <file src="files/Icons/Armas/10.png"/>
+	 <file src="files/Icons/Armas/11.png"/>
+	 <file src="files/Icons/Armas/12.png"/>
+	 <file src="files/Icons/Armas/13.png"/>
+     <file src="files/Icons/Armas/14.png"/>
+     <file src="files/Icons/Armas/15.png"/>
+     <file src="files/Icons/Armas/16.png"/>
+     <file src="files/Icons/Armas/17.png"/>
+     <file src="files/Icons/Armas/18.png"/>
+     <file src="files/Icons/Armas/22.png"/>
+     <file src="files/Icons/Armas/23.png"/>
+     <file src="files/Icons/Armas/24.png"/>
+     <file src="files/Icons/Armas/25.png"/>
+     <file src="files/Icons/Armas/26.png"/>
+     <file src="files/Icons/Armas/27.png"/>
+     <file src="files/Icons/Armas/28.png"/>
+     <file src="files/Icons/Armas/29.png"/>
+     <file src="files/Icons/Armas/30.png"/>
+     <file src="files/Icons/Armas/31.png"/>
+     <file src="files/Icons/Armas/32.png"/>
+     <file src="files/Icons/Armas/33.png"/>
+     <file src="files/Icons/Armas/34.png"/>
+     <file src="files/Icons/Armas/35.png"/>
+	 <file src="files/Icons/Armas/36.png"/>
+     <file src="files/Icons/Armas/37.png"/>
+     <file src="files/Icons/Armas/38.png"/>
+     <file src="files/Icons/Armas/39.png"/>
+     <file src="files/Icons/Armas/40.png"/>
+     <file src="files/Icons/Armas/41.png"/>
+     <file src="files/Icons/Armas/42.png"/>
+     <file src="files/Icons/Armas/43.png"/>
+     <file src="files/Icons/Armas/44.png"/>
+	 <file src="files/Icons/Armas/45.png"/>
+     <file src="files/Icons/Armas/46.png"/>
+		<!-- Armas -->
+
+</meta>

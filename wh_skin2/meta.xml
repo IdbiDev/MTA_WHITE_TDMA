@@ -1,0 +1,55 @@
+<meta>
+	<info type="misc" name="Weapons replacement for: " author="[M]ister" description="" version="1.3" />
+
+	<file src="Data/ak47.txd" />
+	<file src="Data/ak47.dff" />
+
+        <file src="Data/chromegun.txd" />
+	<file src="Data/chromegun.dff" />
+
+        <file src="Data/colt45.txd" />
+	<file src="Data/colt45.dff" />
+
+        <file src="Data/cuntgun.txd" />
+	<file src="Data/cuntgun.dff" />
+
+        <file src="Data/desert_eagle.txd" />
+	<file src="Data/desert_eagle.dff" />
+
+        <file src="Data/grenade.txd" />
+	<file src="Data/grenade.dff" />
+
+        <file src="Data/knifecur.txd" />
+	<file src="Data/knifecur.dff" />
+
+        <file src="Data/m4.txd" />
+	<file src="Data/m4.dff" />
+
+        <file src="Data/micro_uzi.txd" />
+	<file src="Data/micro_uzi.dff" />
+	
+        <file src="Data/mp5lng.txd" />
+	<file src="Data/mp5lng.dff" />
+
+        <file src="Data/sawnoff.txd" />
+	<file src="Data/sawnoff.dff" />
+
+        <file src="Data/shotgspa.txd" />
+	<file src="Data/shotgspa.dff" />
+	
+        <file src="Data/shotgspa.txd" />
+	<file src="Data/shotgspa.dff" />
+	
+        <file src="Data/silenced.txd" />
+	<file src="Data/silenced.dff" />
+
+        <file src="Data/teargas.txd" />
+	<file src="Data/teargas.dff" />
+
+        <file src="Data/tec9.txd" />
+	<file src="Data/tec9.dff" />
+	
+	<script type="client" src="replace.lua" />
+
+	<!-- generated with http://mods-mta.blogspot.com/ -->
+</meta>

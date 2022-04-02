@@ -1,0 +1,9 @@
+<meta>
+    <script src="client.lua" type="client" cache="false" />
+    <script src="server.lua" type="server" />
+    <export function="createMessage" type="server" />
+    <export function="createMessage" type="client" />
+    <export function="SendMe" type="server" />
+    <export function="SendMe" type="client" />
+	<file src="ooc.ttf" />
+</meta>
